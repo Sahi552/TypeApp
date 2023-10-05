@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Type App</string>
+    <string name="slogan1">Express yourself</string>
+    <string name="slogan2">Chat freely</string>
+    <string name="Welcome">Welcome</string>
+    <string name="Enterphnnum">Enter Your Phone Number</string>
+    <string name="Phonenum">Phone Number</string>
+    <string name="Sndotp">Send OTP</string>
+    <string name="Enterotpnum">Enter Your OTP Number</string>
+    <string name="prd">Proceed</string>
+    <string name="EnteryrNm">Enter Your Name</string>
+    <string name="Nm">Name</string>
+    <string name="ln">Login</string>
+    <string name="enter_otp_number">Enter Otp Number</string>
+    <string name="users_s_profile_image">Users\'s Profile Image</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+</resources>
